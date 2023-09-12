@@ -9,6 +9,14 @@
     <img height="30em" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
+## ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ellynhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ellynhan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ellynhan&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</a>
+</p>
 <!--
 **woohyun-jeong/woohyun-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
