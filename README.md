@@ -1,7 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=woohyun-jeong&fontSize=50&animation=twinkling)
+
 ### Hi there 👋
 
 <!--
 **woohyun-jeong/woohyun-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+    <img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
 
 Here are some ideas to get you started:
 
