@@ -12,7 +12,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ellynhan">
+<a href="https://github.com/woohyun-jeong">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JungWooHyoen&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JungWooHyoen&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
