@@ -17,6 +17,14 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=woohyun-jeong&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/woohyun-jeong"
+    width="600"
+    height="120"
+  />
+</a>
+
 <!--
 **woohyun-jeong/woohyun-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,11 +42,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/woohyun-jeong"
-    width="600"
-    height="120"
-  />
-</a>
+
   
