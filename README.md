@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=woohyun-jeong&fontSize=50&animation=twinkling)
-
+https://github.com/woohyun-jeong/woohyun-jeong/blob/main/README.md
 ### Hello, I'm Woohyun Jeong! 👋
 
 ## 🛠 Tech Stack
@@ -7,6 +7,10 @@
     <img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img height="30em" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img height="30em" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img height="30em" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
 </p>
 
 ## ⚙️ GitHub Analytics
